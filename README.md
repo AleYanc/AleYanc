@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleYanc
 - 👀 I’m interested in Fullstack web programming, Big Data & Data science
-- 🌱 I’m currently learning The MERN Stack and Scala (pure Scala and Play! framework)
+- 🌱 I’m currently learning Ruby and Ruby on Rails!
 - Always learning and eager to gain more knowledge!
 
 <!---
